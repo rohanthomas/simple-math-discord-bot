@@ -1,2 +1,2 @@
-# simple-math-discord-bot
+#Simple Math Discord Bot
 A simple math discord bot which sends random integrals, derivatives and other stuff. Developed on Discord Js.
