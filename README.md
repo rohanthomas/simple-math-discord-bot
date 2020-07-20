@@ -8,4 +8,4 @@ npm install discord js
 # Run
 ```
 node index.js
-``
+```
