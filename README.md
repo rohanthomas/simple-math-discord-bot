@@ -3,11 +3,11 @@ A simple math discord bot which sends random integrals, derivatives and other st
 # Pre-requistes
 1. Install Nodejs
   1. Installer (All Platforms) - (http://nodejs.org)
-  2. Mac
+   . Mac
  ```
 brew install node
 ```
-  3. Linux 
+  . Linux 
 ```
 sudo apt install nodejs
 ```  
