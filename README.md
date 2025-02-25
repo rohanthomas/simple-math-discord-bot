@@ -1,6 +1,6 @@
 # Simple Math Discord Bot
 A simple math discord bot which sends random integrals, derivatives and other stuff. Developed on Discordjs
-# Pre-requistes
+# Pre-requisites
 1. Install Nodejs
 
 Installer (All Platforms) - (http://nodejs.org)
